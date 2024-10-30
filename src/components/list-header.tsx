@@ -47,7 +47,7 @@ export const ListHeader = () => {
       </View>
       <View style={styles.heroContainer}>
         <Image
-          source={require("../assets/images/hero.png")}
+          source={require("../../assets/images/hero.png")}
           style={styles.heroImage}
         />
       </View>
