@@ -9,6 +9,7 @@
     "web": "npx expo start --web"
   },
   "dependencies": {
+    "date-fns": "^4.1.0",
     "expo": "^51.0.38",
     "expo-constants": "~16.0.2",
     "expo-linking": "~6.3.1",
